@@ -1,10 +1,10 @@
 # Specify which file (without .py extension) in the arts folder should be used
-artFile = "art"
+artFile = "art.py"
 # Speed of art
-speed = 0.01
+speed = 0.1
 # Print code in the beginning
 codePrint = False
-codingSpeed = 0.01
+codingSpeed = 0.1
 codeColor='red'
 # Audio
 playAudio = True
